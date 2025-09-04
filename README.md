@@ -19,4 +19,7 @@ First install
 ```bash
 pip install transformers torch bitsandbytes Pillow datasets peft torchvision
 ```
-Download/ clone Model and Dataset to the repository directory
+Download/ clone Model and Dataset to the repository directory and run
+```bash
+python Fine_Tuning.py
+```
